@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Jelly Edition Section Title strings -->
+	<string name="dje_section_title">Dark Jelly 2X Edition</string>
+
+    <!-- Dark Jelly Edition Change Log strings -->
+    <string name="djechangelog_summary">Dark Jelly 2X Edition Changelog</string>
+
+    <!-- Dark Jelly Edition Updates strings -->
+	<string name="update_me_app_settings_summary">Dark Jelly 2X Edition Updates</string>
+</resources>
