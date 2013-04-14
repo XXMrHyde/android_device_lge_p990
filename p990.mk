@@ -37,10 +37,10 @@ PRODUCT_COPY_FILES += \
 # Dark Jelly 2X Edition Property Overrides
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.xxmrhyde.version=Dark-Jelly-2X-Edition-(Build-1) \
+    ro.xxmrhyde.version=Dark-Jelly-2X-Edition \
     updateme.name=Dark-Jelly-2X-Edition \
-    updateme.version=1.0.0 \
-	pdateme.urlcheck=http://roms.custom-android.de/files/Roms/p990/CM10/update_me_ckeck.xml \
+    updateme.version=0.0.0 \
+    updateme.urlcheck=http://add.url.to.update_me_ckeck.xml \
     updateme.reboottype=2 \
     updateme.disableinstalledapps=1 \
     updateme.disablescripts=1
