@@ -1,0 +1,6 @@
+<resources>
+  <bool name="config_show_expandedDesktop">true</bool>
+  <bool name="config_show_homeWake">true</bool>
+  <bool name="config_show_volumeRockerWake">true</bool>
+  <bool name="config_show_PluggedUnpluggedWake">true</bool>
+</resources>
